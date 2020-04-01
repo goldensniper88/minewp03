@@ -2,6 +2,7 @@
     /**
      * Template Name: Home Page
      */
+    get_header();
 ?>
 
 <html lang="en">
@@ -19,7 +20,43 @@
 </head>
 <body>
     <div class = "nav">
+        <input type = "checkbox" id = "nav-check">
+        <div class = "nav-header">
+            <div class = "nav-title">
+                <img src=" <?php echo home_url(); ?>/wp-content/uploads/2020/03/home_logo1.png">
+            </div>
+        </div>
+        <div class = "nav-btn">
+            <lable for="nav-check">
+                <span></span>
+                <span></span>
+                <span></span>
+            </label >
+        </div>
+        <div class = "select-lang select-lang-for-mobile">
+            <img src="<?php echo home_url(); ?>/wp-content/uploads/2020/03/select_lang.png">
+            <a href = "#">中</a>
+            <div class ="vertical-line"></div>
+            <a href = "#">En</a>
+        </div>
+        <div class = "nav-links">
+            <div class = "menu-items">
+                <a href="<?php echo home_url();?>/home">首页</a>
+                <a href="<?php echo home_url();?>/facerecognition">人脸识别</a>
+                <a href="<?php echo home_url();?>/services">服务</a>
+                <a href="<?php echo home_url();?>/case">案例</a>
+                <a href="<?php echo home_url();?>/about">关于</a>
+                <a href="<?php echo home_url();?>/connect">联系</a>
+            </div>
+            <div class = "select-lang">
+                <img src="<?php echo home_url(); ?>/wp-content/uploads/2020/03/select_lang.png">
+                <a href = "#">中</a>
+                <div class ="vertical-line"></div>
+                <a href = "#">En</a>
+            </div>
+        </div>
     </div>
-
+    <div>
+    
 </body>
 </html>
