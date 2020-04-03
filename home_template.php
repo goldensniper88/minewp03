@@ -90,16 +90,16 @@
                 <hr>
                 <h3>专注于高端软件技术开发</h3>
                 <div class="contact">
-                <div class="contact-item">
-                    M：130 4335 9000
+                    <div class="contact-item">
+                        M：130 4335 9000
+                    </div>
+                    <div class="contact-item">
+                        T：0433-439 8000
+                    </div>
+                    <div class="contact-item">
+                        E：oneuuapp_ceo@163.com
+                    </div>
                 </div>
-                <div class="contact-item">
-                    T：0433-439 8000
-                </div>
-                <div class="contact-item">
-                    E：oneuuapp_ceo@163.com
-                </div>
-            </div>
 
             </div>
             <div id="jssor_1">
