@@ -129,6 +129,21 @@
                 </div>
             </div>
         </div>
+        <div class = "section section2">
+            <div class="container-fluid">
+                <div class="row">
+                <div class="col-sm-4" style="background: url('<?php echo home_url(); ?>/wp-content/uploads/2020/03/图层-29.png') 0 0 no-repeat">
+                        One of three columns
+                </div>
+                <div class="col-sm-4">
+                        One of three columns
+                </div>
+                <div class="col-sm-4">
+                        One of three columns
+                </div>
+                </div>
+            </div>
+        </div>
     </div>
 </body>
 
