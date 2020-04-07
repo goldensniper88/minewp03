@@ -132,15 +132,24 @@
         <div class = "section section2">
             <div class="container-fluid">
                 <div class="row">
-                <div class="col-sm-4" style="background: url('<?php echo home_url(); ?>/wp-content/uploads/2020/03/图层-29.png') 0 0 no-repeat">
-                        One of three columns
-                </div>
-                <div class="col-sm-4">
-                        One of three columns
-                </div>
-                <div class="col-sm-4">
-                        One of three columns
-                </div>
+                    <div class="card-platform col-xl-2 col-lg-2 col-md-4 col-sm-4 col-4" style="background: url('<?php echo home_url(); ?>/wp-content/uploads/2020/03/图层-29.png') 0 0 no-repeat">
+                            One of three columns
+                    </div>
+                    <div class="card-platform col-xl-2 col-lg-2 col-md-4 col-sm-4 col-4" style="background: url('<?php echo home_url(); ?>/wp-content/uploads/2020/03/图层-30.png') 0 0 no-repeat">
+                            One of three columns
+                    </div>
+                    <div class="card-platform col-xl-2 col-lg-2 col-md-4 col-sm-4 col-4" style="background: url('<?php echo home_url(); ?>/wp-content/uploads/2020/03/矩形-3-拷贝-2.png') 0 0 no-repeat">
+                            One of three columns
+                    </div>
+                    <div class="card-platform col-xl-2 col-lg-2 col-md-4 col-sm-4 col-4 second-row" style="background: url('<?php echo home_url(); ?>/wp-content/uploads/2020/03/长图3.png') 0 0 no-repeat">
+
+                    </div>
+                    <div class="card-platform col-xl-2 col-lg-2 col-md-4 col-sm-4 col-4 second-row" style="background: url('<?php echo home_url(); ?>/wp-content/uploads/2020/03/图层-33.png') 0 0 no-repeat">
+
+                    </div>
+                    <div class="card-platform col-xl-2 col-lg-2 col-md-4 col-sm-4 col-4 second-row" style="background: url('<?php echo home_url(); ?>/wp-content/uploads/2020/03/图层-34.png') 0 0 no-repeat">
+                    
+                    </div>
                 </div>
             </div>
         </div>
