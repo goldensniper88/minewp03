@@ -142,13 +142,13 @@
                             One of three columns
                     </div>
                     <div class="card-platform col-xl-2 col-lg-2 col-md-4 col-sm-4 col-4 second-row" style="background: url('<?php echo home_url(); ?>/wp-content/uploads/2020/03/长图3.png') 0 0 no-repeat">
-
+							One of three columns
                     </div>
                     <div class="card-platform col-xl-2 col-lg-2 col-md-4 col-sm-4 col-4 second-row" style="background: url('<?php echo home_url(); ?>/wp-content/uploads/2020/03/图层-33.png') 0 0 no-repeat">
-
+							One of three columns
                     </div>
                     <div class="card-platform col-xl-2 col-lg-2 col-md-4 col-sm-4 col-4 second-row" style="background: url('<?php echo home_url(); ?>/wp-content/uploads/2020/03/图层-34.png') 0 0 no-repeat">
-                    
+							One of three columns
                     </div>
                 </div>
             </div>
